@@ -6,3 +6,6 @@ print(x + y)
 "asdasd"
 def suma(x , y):
     return math.sqrt(suma(x,y))
+
+def resta(x , y):
+    return x - y
